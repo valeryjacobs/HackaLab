@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "HackaLabweb"
+  },
+  "hostingPlanName": {
+    "value": "HackaLab"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "17918e96-fa57-426f-bac2-2ce6219fcc0d"
+  },
+  "resourceGroup": {
+    "value": "HackaLab"
+  }
+}
